@@ -6,6 +6,12 @@ With this SDK you can easily integrate Adreso within your PHP script or applicat
 
 For more information about Adreso, please checkout [adreso.nl](https://adreso.nl).
 
+## Installation
+
+```
+composer require jeffreyvanrossum/adreso-php-sdk
+```
+
 ## Usage
 
 ```php
