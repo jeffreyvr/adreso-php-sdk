@@ -1,0 +1,19 @@
+{
+    "name": "jeffreyvanrossum/adreso-php-sdk",
+    "description": "PHP SDK for Adreso.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Adreso\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeffrey van Rossum",
+            "email": "jeffrey@vanrossum.dev"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
